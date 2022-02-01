@@ -4,7 +4,7 @@ It’s kind of fun to do the impossible. (Walt Disney) P.S. Hope you know the Di
 ### I'm beginner Front-end Developer
 
 ## 😊 About me:
-✌️ My name is Egor, I'm 20 years old. Web Development attracted me about a year ago. Then I didn't take it seriously. But soon I realized that I have found my fire 🔥
+ My name is Egor, I'm 20 years old. Web Development attracted me about a year ago. Then I didn't take it seriously. But soon I realized that I have found my fire 🔥
 ## 💪 Skills and Proficiency:
 ![Java Script](https://img.shields.io/badge/-Java_Script-050505?style=for-the-badge&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-050505?style=for-the-badge&logo=HTML5)
@@ -16,6 +16,8 @@ It’s kind of fun to do the impossible. (Walt Disney) P.S. Hope you know the Di
 ![Gulp](https://img.shields.io/badge/-Gulp-050505?style=for-the-badge&logo=Gulp)
 ![Figma](https://img.shields.io/badge/-Figma-050505?style=for-the-badge&logo=Figma&logoColor=fcb045)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-050505?style=for-the-badge&logo=Adobe)
+## 🎮 Current project:
+ [![click to see](https://img.shields.io/badge/-click_to_see!-050505?style=for-the-badge)](https://rolling-scopes-school.github.io/egor-dubovik-JSFEPRESCHOOL/portfolio/)
 ## 🎓 Education:
 * University: Belarusian State Academy of Telecommunications, Software maintenance
 * I studied Web dev by myself using the Internet
