@@ -17,11 +17,20 @@ It’s kind of fun to do the impossible. (Walt Disney) P.S. Hope you know the Di
 ![Figma](https://img.shields.io/badge/-Figma-050505?style=for-the-badge&logo=Figma&logoColor=fcb045)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-050505?style=for-the-badge&logo=Adobe)
 
+
 ## 🎓 Education:
 * University: Belarusian State Academy of Telecommunications, Software maintenance
 * I studied Web dev by myself using the Internet
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * English Intermediate. I practice and improve my English every day
+
+## 👣 Follow Me:
+[![telegram](https://img.shields.io/badge/-telegram-050505?style=for-the-badge&logo=telegram&logoColor=fcb045)](https://t.me/eGoDreamer)
+[![instagram](https://img.shields.io/badge/-instagram-050505?style=for-the-badge&logo=instagram)](https://www.instagram.com/dubovik_ego/)
+[![vk](https://img.shields.io/badge/-vk-050505?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/e_g_o_r_k_i_n)
+[![codewars](https://img.shields.io/badge/-codewars-050505?style=for-the-badge&logo=codewars&logoColor=BB432C)](https://www.codewars.com/users/Egor-Dubovik)
+
+
 
 
 
