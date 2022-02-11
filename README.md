@@ -1,4 +1,4 @@
-# 👋 Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=enjirouz) 
+# 👋 Welcome 
 It’s kind of fun to do the impossible. (Walt Disney) P.S. Hope you know the Disney story
 
 ### I'm beginner Front-end Developer
