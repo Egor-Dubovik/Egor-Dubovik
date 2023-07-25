@@ -1,5 +1,5 @@
 # 👋 Welcome 
-It’s kind of fun to do the impossible. (Walt Disney) P.S. Hope you know the Disney story
+It’s kind of fun to do the impossible. (Walt Disney)
 
 ### I'm Web-developer
 Email: e.dubovik.egolab@gmail.com
@@ -13,12 +13,6 @@ Email: e.dubovik.egolab@gmail.com
 
 ## CV
  [![click to see](https://egor-dubovik.github.io/cv_2.0/index.html)
-
-## Education:
-* University: Belarusian State Academy of Telecommunications, Software maintenance
-* I studied Web dev by myself using the Internet
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-* English Intermediate. I practice and improve my English every day
 
 ## Follow Me:
 [![telegram](https://img.shields.io/badge/-telegram-050505?style=for-the-badge&logo=telegram&logoColor=4a6ec8)](https://t.me/eGoDreamer)
