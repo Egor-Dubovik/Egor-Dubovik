@@ -1,5 +1,5 @@
 # 👋 Welcome 
-It’s kind of fun to do the impossible. (Walt Disney)
+Live style: It’s kind of fun to do the impossible. (Walt Disney)
 
 ### I'm Web-developer
 Email: e.dubovik.egolab@gmail.com
