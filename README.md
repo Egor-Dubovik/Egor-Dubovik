@@ -5,9 +5,7 @@ Live style: It’s kind of fun to do the impossible. (Walt Disney)
 
 ## Contacts:
 * Email: e.dubovik.egolab@gmail.com
-* Telegram: <a target="_blank" rel="noopener noreferrer nofollow" href="https://t.me/ego_dubovik">ego_dubovik</a>
-
-
+* Telegram: <a target="_blank" href="https://t.me/ego_dubovik">ego_dubovik</a>
 
 ## About me:
 * Work experience: +1 year
