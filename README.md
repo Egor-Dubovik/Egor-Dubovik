@@ -1,11 +1,13 @@
-# 👋 Welcome 
+# 👋 Hello, there
 Live style: It’s kind of fun to do the impossible. (Walt Disney)
 
 ### I'm Web-developer
 
 ## Contacts:
 * Email: e.dubovik.egolab@gmail.com
-* Telegram: [![ego_dubovik]](https://t.me/ego_dubovik)
+* Telegram: <a target="_blank" rel="noopener noreferrer nofollow" href="https://t.me/ego_dubovik">ego_dubovik</a>
+
+
 
 ## About me:
 * Work experience: +1 year
