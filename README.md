@@ -8,7 +8,7 @@ Email: e.dubovik.egolab@gmail.com
 * Work experience: +1 year
 * Completed RS School courses «JavaScript/Front-end», «React»
 * More than 20 pet-projects were done
-* >10000 hours spent learning web development
+* More than 10000 hours spent learning web development
 * English - Intermediate (B1)
 
 ## CV
