@@ -2,7 +2,10 @@
 Live style: It’s kind of fun to do the impossible. (Walt Disney)
 
 ### I'm Web-developer
-Email: e.dubovik.egolab@gmail.com
+
+## Contacts:
+* Email: e.dubovik.egolab@gmail.com
+* Telegram: [![ego_dubovik]](https://t.me/ego_dubovik)
 
 ## About me:
 * Work experience: +1 year
@@ -14,8 +17,6 @@ Email: e.dubovik.egolab@gmail.com
 ## CV
 [![click to open](https://img.shields.io/badge/-click_to_see!-050505?style=for-the-badge)](https://egor-dubovik.github.io/cv_2.0/index.html)
 
-## Follow Me:
-[![telegram](https://img.shields.io/badge/-telegram-050505?style=for-the-badge&logo=telegram&logoColor=0a76ff)]( https://t.me/ego_dubovik)
 [![codewars](https://img.shields.io/badge/-codewars-050505?style=for-the-badge&logo=codewars&logoColor=BB432C)](https://www.codewars.com/users/Egor-Dubovik)
 
 ## GitHub Stats
