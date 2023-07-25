@@ -12,7 +12,7 @@ Email: e.dubovik.egolab@gmail.com
 • English - Intermediate (B1)
 
 ## CV
- [![click to see](https://egor-dubovik.github.io/cv_2.0/index.html)
+ [![click to see](https://egor-dubovik.github.io/cv_2.0/index.html)]
 
 ## Follow Me:
 [![telegram](https://img.shields.io/badge/-telegram-050505?style=for-the-badge&logo=telegram&logoColor=4a6ec8)](https://t.me/eGoDreamer)
