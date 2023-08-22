@@ -12,8 +12,8 @@ Live style: It’s kind of fun to do the impossible. (Walt Disney)
 ## About me:
 * Work experience: +1 year
 * Training “Commercial Software Development — Front-end”
-* Completed RS School courses «JavaScript/Front-end», «React»
-* More than 30 pet-projects were done
+* Team Leadership RS School
+* More than 30 projects were done
 * More than 10000 hours spent learning web development
 * English - Intermediate (B1)
 
