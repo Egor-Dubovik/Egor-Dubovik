@@ -1,7 +1,7 @@
 # 👋 Hello, there
 Live style: It’s kind of fun to do the impossible. (Walt Disney)
 
-### I'm Web-developer
+### I'm Frontend Developer
 
 ## Contacts:
 * Email: e.dubovik.egolab@gmail.com
