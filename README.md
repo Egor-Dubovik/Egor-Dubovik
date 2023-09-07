@@ -10,7 +10,7 @@ Live style: It’s kind of fun to do the impossible. (Walt Disney)
 
 
 ## About me:
-Hello, my name is Egor! I am a Frontend developer with over 1,5 years of commercial experience.
+Hello, my name is Egor! I am a Frontend developer with over 2 years of commercial experience.
  
 My stack: Next.js▸React▸Redux▸Router▸TypeScript▸JS (ES6+)
  
